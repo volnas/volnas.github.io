@@ -1,0 +1,12 @@
+<a href="index.html"><img src="2.jpg"></a>
+
+<tr align="center" valign="middle" background="1100.jpg" >
+
+<td width="100"><img src="2.jpg" width="100" height="70"></td>
+
+
+<tr  width="200" height="100" background="green_button2330100.png" >
+                 
+                 <td><center><a href="index.html">кноп</a></center></td>
+
+<font size=7 color="red">меню</font>
