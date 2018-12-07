@@ -10,3 +10,21 @@
                  <td><center><a href="index.html">кноп</a></center></td>
 
 <font size=7 color="red">меню</font>
+
+Фото на сайте
+<p><img src="papka/fail.jpg" alt="Здесь расположена картинка"></p>
+Вместо src="papka/fail.jpg" можно фото с любого сайта src="http://www.papka.com/images/fail.jpg"
+
+Аудио на сайте
+<audio controls>
+	<source src="serenata-mp3.mp3" type="audio/mpeg">
+	<source src="serenata-mp3.ogg" type="audio/ogg">
+	Файл не поддерживается браузером
+</audio>
+<hr>
+<br>
+Видео на сайте
+<video src="Klav.mp4" poster="1.jpg" controls></video>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
